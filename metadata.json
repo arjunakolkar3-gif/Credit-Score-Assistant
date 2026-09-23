@@ -1,0 +1,6 @@
+{
+  "name": "Credit Assistant",
+  "description": "AI-powered credit-health intelligence platform for the Indian financial ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
